@@ -2,7 +2,7 @@
   is_default: false
   useSSL: true
   isEnabledForAutoSwitching: true
-- uri: zec-node.cakewallet.com:443
+- uri: zec.rocks:443
   is_default: true
   useSSL: true
   isEnabledForAutoSwitching: true
